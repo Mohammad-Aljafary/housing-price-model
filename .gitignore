@@ -20,3 +20,12 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+kaggle.json
+
+.vscode/
+# Visual Studio Code settings
+.venv/
+# Python virtual environment
+__pycache__/
+# Python cache files
